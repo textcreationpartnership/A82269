@@ -1,0 +1,276 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The decoy duck: together with the discovery of the knot in the dragons tayle called &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82269</idno>
+            <idno type="STC">Wing D804</idno>
+            <idno type="STC">Thomason E132_35</idno>
+            <idno type="STC">ESTC R22263</idno>
+            <idno type="EEBO-CITATION">99871682</idno>
+            <idno type="PROQUEST">99871682</idno>
+            <idno type="VID">156378</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82269)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156378)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The decoy duck: together with the discovery of the knot in the dragons tayle called &amp;c.</title>
+                  <author>Taylor, John, 1580-1653, attributed name.</author>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for F. Couls, T. Bates, I. Wright, and T. Banks,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With illustrated title-page.</note>
+                  <note>Sometimes attributed to John Taylor, the water poet.</note>
+                  <note>A satire on John Williams, archbishop of York and the eleven other bishops who with him maintained their parliamentary rights.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Williams, John, 1582-1650.</term>
+               <term>Church of England --  Bishops --  Controversial literature --  Early works to 1800.</term>
+               <term>Bishops --  Temporal power --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156378:1" rendition="simple:additions"/>
+            <p>The Decoy Duck: <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ogether with the Diſcovery of the Knot in the Dragons Tayle called <hi>&amp;c.</hi>
+            </p>
+            <figure/>
+            <p>
+               <gap reason="illegible" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>d at <hi>London</hi> for <hi>F. Couls, T. Bates, I. Wright,</hi> and <hi>T. Banks.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="political_tract">
+            <pb facs="tcp:156378:2"/>
+            <head>The Decoy Duck.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">G</seg>Entle Reader,</salute>
+            </opener>
+            <p>I am not minded to trouble you with a long Preface to a ſhort and true ſtory, or to make a doore bigger than the whole Houſe: therefore I come to the ſubject now in hand: there be 3. ſorts of Decoyes, <hi>viz.</hi> Knights of the Poſt, or Setters, Pimps, and <hi>Decoy-Ducks</hi> themſelves: The firſt is to give falſe teſtimony in ſuits of Law, and to betray men into the Sargeants claws: The ſecond doe commonly bring in wandring peccant wenches to Gentlemens Chambers: and the third, is the De<g ref="char:EOLhyphen"/>coy Duck it ſelfe, for bringing alwayes ſtore of gaine to his Maſters profit, as they doe in many Fen-Countries, both in <hi>England</hi> and <hi>Hol<g ref="char:EOLhyphen"/>land:</hi> But in this our witty age, of deeper ſpeculation, there is found out a fourth ſort of Decoyes; to wit, a Biſhop Decoy, who was highly fed at <hi>Bugden,</hi> and thought fit to have taken his flight of late to <hi>Cawood,</hi> but ſtormes ariſing, and the wind being contrary, took wing for <hi>West<g ref="char:EOLhyphen"/>minſter, &amp;c.</hi> where being fatned, he began to quack too loud, and too often, and flutter too much, or too little: till at laſt he was coop'd up, and his black and white wings pinion'd, till he was growne tame, and held fitting for uſe and ſervice: This Lincoln-ſhire Duck thus held at length fit for flight, and ſtrongly opinion'd, boaſted like the Decoy Duck unto his feeder, that if once he was permitted to flie abroad, he had that skill and knowledge in all parts and fenny Countries and ſea-coaſts, creeks, Ponds, Marſhes, and Rivers, and ſo much as the very Rivulet from from the See of <hi>Rome, &amp;c.</hi> So having like a Decoy Duck, got his break<g ref="char:EOLhyphen"/>faſt, and liberty in a ſerene calme time, intended to bring Praiſe and L<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ud to himſelfe, or hee with other of the ſame feathered Foules un<g ref="char:EOLhyphen"/>to him.</p>
+            <p>Suppoſe this our Decoy Duck is flowne, and let looſe in a faire bright and Sun-ſhine day, the wind ſitting fairely for his purpoſe: at firſt flight he did light upon a ſmall parcell of young Ducks, who at firſt (at his faire feathers, and beautifull aſpect) the yonger Ducks began to riſe and fly away: But hee being a skilfull Quacker, courted them in their own Tone, quacking and ſaying, I am your Countrie-man: What are you af<g ref="char:EOLhyphen"/>fraid of mee, my young pretty Ducklings? I am of the ſame feather, and flight as you are: but are there no more of our owne flock and kind hereabouts in this faire ſeaſon? to whom they anſwered, oh yes, brother
+<pb facs="tcp:156378:2"/>Foule: But where keepe they, and where feed they? they old him on <hi>Lambeth</hi> ſide, &amp;c. So at length they being taken with admiration, with his comely feathers and good quacking, brought him unto the whole flock, where they (as well as the other) ſtood at firſt amazed, ſome Dacks fearing him to bee a Gooſe-Hauke, others a Faulkon; ſome ima<g ref="char:EOLhyphen"/>gined him to bee an Eagle, ſo not daring to ſtand any longer, tooke wing and flew compaſſe, to ſee what would become of the Reſidentia<g ref="char:EOLhyphen"/>ties that quackt with him; they that were flowne aloft ſcenting him by the wind, ſmeld he had beene ſome hous'd Duck, becauſe hee ſmelt ſo ſtrong of his former Coop, having not had the liberty of ayre and wing, as they themſelves had: divers were different in their conceits, ſome tooke him to bee a Buzzard in <hi>Quarto,</hi> others a Peacock in <hi>Folio;</hi> but at length all fears being layd aſide, and great flocking being made about him, they that hovered above, left the wing, and mixt themſelves with the whole flocke. Being all then ſetled, the Decoy begins thus in quacking language; Good Brethren of a Feather, as I feare not but that you are, I deſire you all of the ſtronger Wing to declare in what Coaſt you feed in, and in what neſt you were hatcht in: and becauſe I ſee ſo many of you ſo leane, that you are not able to flye and maintaine any length of flight, ſome greedily feeding and ſwallowing downe gravell, graſſe, and weeds, and wormes and ſuch poore food that I am ſory for to ſee ſuch leane carkaſſes, and thinne bodies amongſt my Brother Ducks.</p>
+            <list>
+               <item>The firſt quackt, <q>I am Durham bred.</q>
+               </item>
+               <item>The ſecond quackt, <q>Lichfield and Coventrie.</q>
+               </item>
+               <item>The third quackt, <q>Norwich.</q>
+               </item>
+               <item>The fourth quackt. <q>Aſaph.</q>
+               </item>
+               <item>The fifth quackt, <q>Bath and Wells.</q>
+               </item>
+               <item>The ſixt quackt, <q>Hereford.</q>
+               </item>
+               <item>The ſeventh quackt, <q>Oxford.</q>
+               </item>
+               <item>The eighth <q>Ely.</q>
+               </item>
+               <item>The ninth <q>Gloucefler.</q>
+               </item>
+               <item>The tenth <q>Peterborough.</q>
+               </item>
+               <item>The eleventh <q>Landaffe.</q>
+               </item>
+               <item>And I confeſſe, fellow Fowles, I was of <hi>Lincolne.</hi>
+               </item>
+            </list>
+            <p>Upon which Confeſſion, they all clapt their wings, and quackt for joy of their long abſent brother: Then ſayd the Decoy Duck, I thanke you for opening and declaring your breaſts and ſpreading your wings ſo freely to me. I proteſt unto you, that if you will follow my adviſe and Proteſtation, I will bring you from this groſſe feeding where you now are, unto a place wherein you ſhall have variety and plenty; in ſtead of want, you ſhall have fulneſſe, in ſtead of wormes you ſhall have whe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:156378:3"/>inſtead of Graſſe, you ſhall have wild Oates; in ſtead of Duck-weed, you ſhall have Ducks meat; in ſtead of Gravell, you ſhall have Gravee, and Graves Wine; inſtead of Paddocks, you ſhall have Pullets and Pancakes; and in ſtead of Froggs, you ſhall have Fritters.</p>
+            <p>Hereupon the miſcelenous Ducks for want of meat, deſiring to ſur<g ref="char:EOLhyphen"/>baite themſelves, as alſo deſirous of caſe, and not to fly for every dayes food ſo far as they uſed, reſolved with clapping of wings, and quacking of Bills to whatſoever he their ſaid brother. <hi>Duck</hi> ſhould write, de<g ref="char:EOLhyphen"/>clare, and proteſt. So they conſenting to his Will and Proteſtation, re<g ref="char:EOLhyphen"/>ſolved to ſoare a high flight; where being all alighted and conglo mera<g ref="char:EOLhyphen"/>ted in a ſecret and convenient place, which was after their firſt flight, be declared his whole mind unto them freely: where he made a pir<g ref="char:EOLhyphen"/>ſcription what he intended; enjoyning them that they ſhould never reveale who diſcovered this dainty Dyet, pleaſing Rivers, warme Cli<g ref="char:EOLhyphen"/>mate, ſafe Creeks; upon which they all conſented, and made a generall reſolve whatſoever hee their brother <hi>Duck</hi> ſhould determine, they would willingly ſubſcribe unto.</p>
+            <p>I know, quoth the decoy Duck, all the parts of this Climate; Eaſt, Weſt, North and South; the Civill and Common Lawes of the Country, and know how to avoid and wave all the Fowlers gins and ſnares, though never ſo cloſely laid: Be not afraid, nor doe you quake my brethren, I doe proteſt unto you all, that I will accompany you whither ſoever you will goe; my life and feathers, brother Ducks, is as good, and as trim as any of yours: I can tell you when we come neare any Keeper, or Maſter of the Game, I can ſmell him by his powder and ſlint; eſpecially if hee have a purſe by his ſide: O bravely proteſted, and moſt freely declared, quackt all the Ducks; come let us remove from this barren ſoyle &amp; take wing: Although this our brother Duck (quackt all the Ducks) hath not frequented our company of late, or hath bin of our gang; yet he leading the way, and in the firſt range, is ſubject to the moſt danger. I, I quoth the Decoy, I will ſecure you all, ſeeing you have ſubſcribed and proteſted as I have done, for I know which way the wind ſits, when I turne my Mill, to grind my Corn: imagine they are all upon the wing, and follow this their Leader and Decoy Ducks Rule, Preſcript, and Proteſtation: avowing they would ayd him in whatſoever he undertook or propoun<g ref="char:EOLhyphen"/>ded: beleeving that this Decoy quacked as he had bin ſome Oracle: yet ſome of theſe Ducks being more ſubtile then the reſt, doubted and fea<g ref="char:EOLhyphen"/>red very much: yet as the old Proverbe ſaith, <hi>Birds of a feather will fly together,</hi> ſo they did for company; and comming neare to the ſtately Pond, or River, which the Decoy told them of, whereon grew upon the bankes all ſorts of graine fit for their pallets, which having viewed and taſted, they all liked this place exceeding well; which made the
+<pb facs="tcp:156378:3"/>reſt of the Duckes which were fearefull, and loytering behind. and ho<g ref="char:EOLhyphen"/>vering upon the wing, and ſeeing all ſafe and ſecure and ſure from com<g ref="char:EOLhyphen"/>pany, to light and take their paſtime with the reſt of their fellowes: where they fell a feeding, and waſhing and dabling themſelues, in ſuch a manner; ſome quacking, ſome clapping their wings to ſee ſuch a plea<g ref="char:EOLhyphen"/>ſant River, and ſuch variety of meate: The old Decoy ſtill drawing them on, and ſwimming before them like a valiant Leader: At length ſome of the for moſt Ducks which had good eyes, eſpyes a ſtately Houſe; at which being amazed and affrighted, quacks, and flyes back, and askes their brother Duck what ſtately place that was which had ſo many brave Towers and Pinacles upon it: The Decoy <hi>Duck</hi> quackt againe to them, and ſaid they need not feare, there was no body did lodge in it, nor no danger could come unto them: Nay, then goe forwards quackt all the Duckes, for we have ſubſcribed and proteſted to follow you our Captaine: So on they ſwam in a ſtately manner, diving, and ducking, and pruning themſelves; And being come to the place of their abode and ſafety, not regarding what Arches were over their heads or what Bridges they ſwam under, ſtill looking forwards; At that very inſtant the Floud-gate of the aforeſaid River was clapt too, and a Net flung over their heads: then they all began to quack, and to make ſuch hidious cryes, what with their clapping their wings, that it was heard even like an Eccho round about the Country: eſpecially to the Family of the aforeſaid Houſe, which newly arived there at the ſame houre: who came to the River ſide, and beheld thoſe Crea<g ref="char:EOLhyphen"/>tures with an amazement, becauſe of their faces and ſeverall ſhapes: ſome of the family asked why they made ſuch a breach, and treſpaſſed againſt the cuſtome of that place, ſaying, could they not keepe within their owne limits, but contrary to all Rights and Priviledges com<g ref="char:EOLhyphen"/>mit this out-rage: Others asked them how came they hither; then came ſome of the Owners of the place, and queſtioned with them, and asking them who inticed and draw them to this eminent place: They all quacked and ſaid; Our brother <hi>Sugden Duck,</hi> hee Proteſted hee would bring us to a ſafe, and a ſecure place, and wee his brother Ducks thinke hee hath done ſo indeede: Then quoth the Owners of the Ri<g ref="char:EOLhyphen"/>ver, hee hath played the <hi>Decoy Duck</hi> with you all, and hath not onely brought in you, but himſelfe alſo in the ſame danger. O Sir, he promiſed he would bee our Leader, and venter his life, and all his Feathers, if any hazard or danger come on it: Moreover, that h e would be our defender and Keeper, though hee ſealed it with his bloud: Sure ſaid the Owners you are all of a Neſt, though not at the ſame time hatcht up, your white wings, and blacke liſts downe the back: doth
+<pb facs="tcp:156378:4"/>manifeſt the ſame: though you, faces bee like men, yet you have fowle bodies: Quack, quack, quack, quoth ſome of them, and ſaid, wee are of ſeverall Climates, though feathered all alike; but meerely brought in hither by our Captaine <hi>Duck,</hi> who now ſhewes himſelfe a plaine Arch Decoy Duck: I never heard ſaid the Owners, but of one Arch Decoy Duck before that was ever taken, but hee came in all alone, and brought no body with but himſelfe: But this your Captaine De<g ref="char:EOLhyphen"/>coy Duck, hee hath brought in good ſtore, five Couple, and one odde Duck beſides himſelfe.</p>
+            <p>Call the Poulterer hither, ſome of you, that hee may view theſe faire Flocke of Ducks, and ſee which is for Service, and which is for the Diſh: and put the reſt into the White Houſe: Quack, quack quoth all the Ducks, when they heard that; ſaying, we are all betrayed, and made young Ducklings of.</p>
+            <p>O mercy, quoth ſome of the Ducks, ſhew mercy; I was brough in by a wild: Another quackt, and ſaid, hee thought it onely a matter of cuſtome, and Proteſted for forme ſake: Another quackt and ſaid, hee did ſubſcribe onely that hee would be conformable to the reſt of his brother Ducks; Another, that he thought hee had beene in <hi>Armenia,</hi> where all things are at free will and at liberty; Another, amongſt the reſt ſaid, that they depended and truſted upon their brother Duck for their Ke<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>per; Another whoſe over hot zeale bad taken ſuch a cold, that hee could not for ſeaven yeares together bee heard quack<g ref="char:EOLhyphen"/>ing in a Pulpit; Another could make no Anſwer to cleare himſelfe, but his eyes directed as to his Leader, and ſeemed to ſay, <hi>Thy wicked perſwaſions hath undone us, proud Arch Duck;</hi> One above the reſt Pe<g ref="char:EOLhyphen"/>titions that he might ſend for a friend and kinſman to bayle him, and being demanded who he would ſend for, quackt, and ſaid his Couſen Doctor <hi>Duck:</hi> Anſwer was made that hee was ſicke of the Gout, and could not come; beſides it was cold weather, and dangerous for his health to ſly abroad: quack quoth the Duck, and ſaid, hee will come forth in all weathers for a double Fee; eſpecially if hee bee lapt in a Lambs skin. Come, I ſay you muſt goe with my Poulterer, come leave your ducking, diving, and bowing, and your cringing to me; doe not take me for an Altar: Some of you ſpeak like Dioceſtors, and thought your faces reſemble men, yet you have foule bodies and dangerous re<g ref="char:EOLhyphen"/>ſervations within your hearts. But what is that paper which is about your Brother <hi>Ducks</hi> neck, let me ſee, O it is a Coppy of the <hi>New Oath:</hi> let me ſee it, that I may underſtand the contents, and view the ſubſtance of each particular. And ſo I leave you and your brother Ducks, to the next flight, which will be ſuddenly to Weſtminſter.</p>
+            <figure>
+               <figDesc>depiction of a six-headed dragon</figDesc>
+            </figure>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:156378:4"/>
+            <head>A Diologue between two Zea<g ref="char:EOLhyphen"/>lots concerning <hi>&amp;c.</hi> in the new Oath, Deviſed by the Biſhops to de<g ref="char:EOLhyphen"/>ceive their Brethren.</head>
+            <l>SIr <hi>Roger</hi> from a zealous peice of Freeze,</l>
+            <l>Rais'd to a Vicar of the Childrens threes,</l>
+            <l>Whoſe yearely Audit may by ſtrict account</l>
+            <l>To twenty Nobles, and the vailes amount;</l>
+            <l>Fed on the Common of the female charity,</l>
+            <l>Vntill the Scots can bring about their parity;</l>
+            <l>So ſhotten that his ſoule like to himſelfe</l>
+            <l>Walkes but in <hi>Quirpo,</hi> this ſame Clergy Elfe;</l>
+            <l>Encountring with a <hi>Brother</hi> of the <hi>Cloth,</hi>
+            </l>
+            <l>Fell preſently to <hi>Cudgells</hi> with the <hi>Oath:</hi>
+            </l>
+            <l>The Quarrell was a <hi>ſtrange</hi> miſhapen <hi>Monſter,</hi>
+            </l>
+            <l>
+               <hi>Et c.</hi> God bleſſe us; he aid conſtrue</l>
+            <l>The <hi>Brand</hi> upon the <hi>buttock</hi> of the <hi>Beaſt,</hi>
+            </l>
+            <l>The <hi>Dragons Tayle</hi> ty'd on a <hi>knot,</hi> a <hi>Neſt</hi>
+            </l>
+            <l>Of <hi>Young Apocripha's,</hi> the faſhion</l>
+            <l>Of a new mentall reſervation, whiles <hi>Roger</hi> thus devides the <hi>Text,</hi> the other</l>
+            <l>
+               <hi>Winkes</hi> and <hi>Expounds;</hi> ſaying, my <hi>Pious Brother,</hi>
+            </l>
+            <l>Hearken with reverence, for the point is nice,</l>
+            <l>I never read on't, but I faſted twice:</l>
+            <l>And ſo by <hi>Revelation</hi> know it better,</l>
+            <l>Then all the learn'd <hi>Idolaters</hi> of the <hi>Letter.</hi>
+            </l>
+            <pb facs="tcp:156378:5"/>
+            <l> With that he ſweld, and ſate upon the Theame</l>
+            <l>Like great <hi>Goliah,</hi> with his Weavers beame.</l>
+            <l>I ſay to thee &amp;c. thou lyeſt;</l>
+            <l>Thou art the <hi>Curled locke of Antichriſt:</hi>
+            </l>
+            <l>Rubbiſh of <hi>Babell</hi> for who will not ſay</l>
+            <l>Tongues are confounded in <hi>Et Caetera;</hi>
+            </l>
+            <l>Who ſweares &amp;c. ſweares more Oathes at once</l>
+            <l>Then <hi>Cerberus</hi> out of his tripple ſconce;</l>
+            <l>Who viewes it well with the ſame eye beholds</l>
+            <l>The old falſe Serpent with his numerous folds;</l>
+            <l>Accurſt &amp;c. now now I ſcent,</l>
+            <l>What the prodigious bloudy <hi>Oyſters</hi> meant.</l>
+            <l>O <hi>Booker, Booker,</hi> how cam'ſt thou to lacke</l>
+            <l>This Frend in thy prophetick <hi>Almanack?</hi>
+            </l>
+            <l>'Tis the dark Vault, where the infernall Plot</l>
+            <l>Of Powder 'gainſt the State was firſt begot:</l>
+            <l>Peruſe the Plot, and you ſhall ſoone deſcry it,</l>
+            <l>By all the Father <hi>Garnets</hi> that ſtand by it</l>
+            <l>'Gainſt whom the Church (whereof I am a member)</l>
+            <l>Shall keepe another fifth day of November.</l>
+            <l>Nay here's not all, I cannot halfe untruſſe,</l>
+            <l>
+               <hi>Et Caetera</hi> 'tis ſo abominous.</l>
+            <l>The <hi>Trojan</hi> Horſe was not ſo fully lin'd,</l>
+            <l>Vnrip &amp;c. and you ſhall find</l>
+            <l>
+               <hi>Ogge</hi> the great <hi>Commiſſary,</hi> and which is worſe,</l>
+            <l>Th' Apparitor upon his sky-bald horſe:</l>
+            <l>Then finally my babe of grace forbeare,</l>
+            <l>
+               <hi>Et Caetera</hi> will be too far to ſweare;</l>
+            <l>For 'tis (to ſpeake in a familiar ſtyle)</l>
+            <l>A <hi>York-ſhiere Way-bit</hi> longer then a mile.</l>
+            <l>Here <hi>Roger</hi> was inſpir'd, and by <hi>godds diggers,</hi>
+            </l>
+            <l>He'l ſweare in <hi>words at length,</hi> &amp; not <hi>in Figures;</hi>
+            </l>
+            <l>Now by this drink, which he fetch'd off as loath</l>
+            <l>To have <hi>Et Caetera</hi> in his liquid <hi>Oath:</hi>
+            </l>
+            <l>His brother pledg'd; and in that bloudy wine,</l>
+            <l>He ſwore hee'l be the Syn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds <hi>Cataline:</hi>
+            </l>
+            <l>Thus they drank on, not offering to part</l>
+            <l>Till they had ſworn out the <hi>Eleventh Quart;</hi>
+            </l>
+            <l>Whilſt all that ſaw, and heard them, then did pray,</l>
+            <l>
+               <hi>They</hi> and <hi>their Tribe were all</hi> &amp;c.</l>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
